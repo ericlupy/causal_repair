@@ -2,7 +2,8 @@
 
 ## Background
 
-This is the code repo of "Causal Repair of Learning-enabled Cyber-physical Systems" published in ICAA 2023.
+This is the code repo of "Causal Repair of Learning-enabled Cyber-physical Systems" by Pengyuan Lu, Ivan Ruchkin, Matthew Cleaveland, Oleg Sokolsky and Insup Lee,
+published in ICAA 2023 [link](https://arxiv.org/abs/2304.02813).
 The code contains an example repair of mountain car dynamics, including a to-be-repaired controller network and
 an example sampled good controller network. Running the code requires Python 3.
 
