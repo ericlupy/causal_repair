@@ -10,10 +10,10 @@ from utils import predict_yaml, simulate, visualize_func, visualize_trace
 """ m = 18 * 14 = 252, n = 20 """
 min_pos = -1.2
 max_pos = 0.6
-step_pos = 0.1
+step_pos = 0.02
 min_speed = -0.07
 max_speed = 0.07
-step_speed = 0.01
+step_speed = 0.002
 min_ctrl = -1.0
 max_ctrl = 1.0
 step_ctrl = 0.1

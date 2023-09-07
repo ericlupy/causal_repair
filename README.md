@@ -1,5 +1,11 @@
 # Causal Repair of Learning-enabled Cyber-physical Systems
 
+### Update 09/06/2023
+
+1. Fixed typo in `sample_run.sh`
+
+2. Fixed step size in `hp_gridding.py`, so that now the output numpy control heatmap is the same shape as the example sat controllers.
+
 ## Background
 
 This is the code repo of "Causal Repair of Learning-enabled Cyber-physical Systems" by Pengyuan Lu, Ivan Ruchkin, Matthew Cleaveland, Oleg Sokolsky and Insup Lee,
